@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8a61a71c-ec88-44c3-91a2-45fee182e380": {
+      "ProjectGuid": "8a61a71c-ec88-44c3-91a2-45fee182e380",
+      "DisplayName": "EquationTest",
+      "ColorIndex": 0
+    },
+    "e5587236-7667-4f78-8e2d-96a6da0d90a3": {
+      "ProjectGuid": "e5587236-7667-4f78-8e2d-96a6da0d90a3",
+      "DisplayName": "ComplexLib",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "84eab9f3-dae8-449b-acb2-5d29b6433e1c": {
+      "ProjectGuid": "84eab9f3-dae8-449b-acb2-5d29b6433e1c",
+      "DisplayName": "ComplexTests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

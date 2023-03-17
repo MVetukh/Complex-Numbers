@@ -1,0 +1,36 @@
+C:\Users\пр\OneDrive\Documents\VS 2015 Projects\C#Projects\ComplexNumbers\ComplexLib\bin\Debug\net6.0\ComplexLib.deps.json
+C:\Users\пр\OneDrive\Documents\VS 2015 Projects\C#Projects\ComplexNumbers\ComplexLib\bin\Debug\net6.0\ComplexLib.dll
+C:\Users\пр\OneDrive\Documents\VS 2015 Projects\C#Projects\ComplexNumbers\ComplexLib\bin\Debug\net6.0\ref\ComplexLib.dll
+C:\Users\пр\OneDrive\Documents\VS 2015 Projects\C#Projects\ComplexNumbers\ComplexLib\bin\Debug\net6.0\ComplexLib.pdb
+C:\Users\пр\OneDrive\Documents\VS 2015 Projects\C#Projects\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ComplexLib.csproj.AssemblyReference.cache
+C:\Users\пр\OneDrive\Documents\VS 2015 Projects\C#Projects\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ComplexLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пр\OneDrive\Documents\VS 2015 Projects\C#Projects\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ComplexLib.AssemblyInfoInputs.cache
+C:\Users\пр\OneDrive\Documents\VS 2015 Projects\C#Projects\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ComplexLib.AssemblyInfo.cs
+C:\Users\пр\OneDrive\Documents\VS 2015 Projects\C#Projects\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ComplexLib.csproj.CoreCompileInputs.cache
+C:\Users\пр\OneDrive\Documents\VS 2015 Projects\C#Projects\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ComplexLib.dll
+C:\Users\пр\OneDrive\Documents\VS 2015 Projects\C#Projects\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ref\ComplexLib.dll
+C:\Users\пр\OneDrive\Documents\VS 2015 Projects\C#Projects\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ComplexLib.pdb
+D:\Microsoft Visual Studio\Visual Studio\Projects\ComplexNumbers\ComplexLib\bin\Debug\net6.0\ComplexLib.deps.json
+D:\Microsoft Visual Studio\Visual Studio\Projects\ComplexNumbers\ComplexLib\bin\Debug\net6.0\ComplexLib.dll
+D:\Microsoft Visual Studio\Visual Studio\Projects\ComplexNumbers\ComplexLib\bin\Debug\net6.0\ref\ComplexLib.dll
+D:\Microsoft Visual Studio\Visual Studio\Projects\ComplexNumbers\ComplexLib\bin\Debug\net6.0\ComplexLib.pdb
+D:\Microsoft Visual Studio\Visual Studio\Projects\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ComplexLib.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Visual Studio\Projects\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ComplexLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\Visual Studio\Projects\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ComplexLib.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\Visual Studio\Projects\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ComplexLib.AssemblyInfo.cs
+D:\Microsoft Visual Studio\Visual Studio\Projects\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ComplexLib.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Visual Studio\Projects\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ComplexLib.dll
+D:\Microsoft Visual Studio\Visual Studio\Projects\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ref\ComplexLib.dll
+D:\Microsoft Visual Studio\Visual Studio\Projects\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ComplexLib.pdb
+C:\Users\student\Desktop\ComplexNumbers\ComplexLib\bin\Debug\net6.0\ComplexLib.deps.json
+C:\Users\student\Desktop\ComplexNumbers\ComplexLib\bin\Debug\net6.0\ComplexLib.dll
+C:\Users\student\Desktop\ComplexNumbers\ComplexLib\bin\Debug\net6.0\ref\ComplexLib.dll
+C:\Users\student\Desktop\ComplexNumbers\ComplexLib\bin\Debug\net6.0\ComplexLib.pdb
+C:\Users\student\Desktop\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ComplexLib.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ComplexLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ComplexLib.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ComplexLib.AssemblyInfo.cs
+C:\Users\student\Desktop\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ComplexLib.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ComplexLib.dll
+C:\Users\student\Desktop\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ref\ComplexLib.dll
+C:\Users\student\Desktop\ComplexNumbers\ComplexLib\obj\Debug\net6.0\ComplexLib.pdb

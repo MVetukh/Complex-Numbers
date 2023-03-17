@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ComplexTest/1.0.0": {
+        "dependencies": {
+          "ComplexLib": "1.0.0"
+        },
+        "runtime": {
+          "ComplexTest.dll": {}
+        }
+      },
+      "ComplexLib/1.0.0": {
+        "runtime": {
+          "ComplexLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ComplexTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ComplexLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
